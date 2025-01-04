@@ -51,11 +51,11 @@
 font-size: 18px;
 font-family: "Roboto", sans-serif;
 text-decoration: none;
-color: white;
+color: black;
 line-height: 55px;
 }
 .menu ul li i{
-    color: white;
+    color: black;
     letter-spacing: 4px;
 }
 .menu ul li {
@@ -79,7 +79,7 @@ line-height: 55px;
     bottom: 20px;
 }
 .sidebar_menu .social_media i{
-    color: white;
+    color: black;
     opacity: 0.4;
     padding: 0 3px;
 }
@@ -97,7 +97,7 @@ line-height: 55px;
 
 }
 .btn_two:hover{
-    color: white;
+    color: black;
     font-size: 30px; 
 }
 #check:checked~ .sidebar_menu {
